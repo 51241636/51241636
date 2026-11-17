@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubBanner.png" width="100%" />
+  <img src="githubBannner.png" width="100%" />
 </p>
 
 # 💜 PASINDU INDUVARA SEPALA
