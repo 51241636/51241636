@@ -120,11 +120,13 @@ A learning management application designed to manage students, teachers and educ
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/51241636/51241636/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center">
   <b>💜 Code. Create. Innovate.</b>
   <br/>
   Thanks for visiting my profile!
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/51241636/51241636/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+
